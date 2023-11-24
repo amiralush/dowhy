@@ -3,6 +3,6 @@ scipy
 statsmodels
 pandas>=0.24
 networkx>=2.0
-sympy>=1.4
+sympy>=1.12
 scikit-learn
 pydot>=1.4
